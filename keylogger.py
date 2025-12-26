@@ -1,3 +1,9 @@
+# DISCLAIMER:
+# This program is for educational purposes only.
+# It logs keystrokes ONLY within this application window.
+# It does NOT capture system-wide keyboard input.
+# Unauthorized use of keylogging software is illegal and unethical.
+
 import tkinter as tk
 from datetime import datetime
 
