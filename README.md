@@ -77,7 +77,13 @@ Session-based logging
 
 Password-protected log access
 
-Log viewer inside GUI
+Log viewer inside GUIDisclaimer:
+This project is developed strictly for educational and learning purposes as part of the Prodigy Infotech internship.
+It captures keystrokes only within the application window and does not record system-wide or background keyboard input.
+Any unauthorized or malicious use of keylogging techniques is illegal and unethical.
+The author is not responsible for misuse of this project.
+
+
 
 👨‍💻 Author
 
