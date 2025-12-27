@@ -87,4 +87,4 @@ The author is not responsible for misuse of this project.
 👨‍💻 Author
 
 Sriman Kundu
-Cybersecurity Enthusiast | Prodigy Infotech Intern
+Cybersecurity Enthusiast | 
